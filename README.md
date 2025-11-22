@@ -15,6 +15,7 @@ coffee-shop/
 │       ├── __init__.py
 │       ├── customer.py
 │       ├── coffee.py
+│       ├── debug.py
 │       └── order.py
 ├── tests/
 │   ├── __init__.py
